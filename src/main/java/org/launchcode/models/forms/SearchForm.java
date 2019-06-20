@@ -5,7 +5,8 @@ import org.launchcode.models.JobFieldType;
 /**
  * Created by LaunchCode
  */
-public class SearchForm {
+public class
+SearchForm {
 
     // The search options
     private JobFieldType[] fields = JobFieldType.values();
